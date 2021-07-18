@@ -1,6 +1,6 @@
 package com.example.eventboard
 
-import android.media.Image
+import android.content.Context
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
